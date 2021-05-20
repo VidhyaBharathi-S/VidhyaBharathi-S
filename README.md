@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vidhya
-- 
+
 - 👩🏼‍🎓 I'm a Student
 - 👀 I’m interested in ... Machine learning and Deep learning AI
 - 🌱 I’m currently learning ... Python javascript HTML
